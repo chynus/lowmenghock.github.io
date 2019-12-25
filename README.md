@@ -1,6 +1,6 @@
 <h1 align="center"><b><em>CURRICULUM VITAE</em></b></h1>
 <img src="https://cdn2.ettoday.net/images/2478/d2478497.jpg" width="20%"><img src="http://pic.90sjimg.com/design/00/57/93/24/58fad0225eafe.png" width="3%"><sup><sup><big>MY IMAGE</big></sup></sup>
-<li><a href="https://https://github.com/chynus/lowmenghock.github.io/blob/master/MYPPT.pptx.pptx/">MYPPT.xlsx</a></li>
+<li><a href="https://github.com/chynus/lowmenghock.github.io/raw/master/MYPPT.pptx.pptx/">MYPPT.xlsx</a></li>
 <li><a href="MyWord.docx.docx">MyWord.docx</a></li>
 <li><a href="piechart.xlsx.xlsx/">piechart.xlsx</a></li>
 <li><a href="https://github.com/chynus/lowmenghock.github.io/blob/master/Mooncity.xlsx.xlsx/">moonlight.xlsx</a></li>
